@@ -5,7 +5,6 @@
 using namespace std;
 #include "clui.h"
 #define n 5
-//5
 bool gameover=true;
 int score=0;
 int flag=0;
